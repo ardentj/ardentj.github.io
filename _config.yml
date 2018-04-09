@@ -8,15 +8,15 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Chiko Mukwenha
-tagline:          'Software Developer'
-description:      "I'm a full stack developer. I live in Sunshine City, a place near the bottom tip of Africa!"
-url:              http://chikomukwenha.co
+title:            'WholeShebang.net Blog'
+tagline:          'Technical Support and Solutions'
+description:      "Updates and Notices about Future Services"
+url:              https:/wholeshebang.net
 baseurl:          /
 
 author:
-  name:           'Chiko'
-  url:            https://twitter.com/therealchiko
+  name:           'ardentj'
+#  url:            https://twitter.com/therealchiko
 
 paginate:         5
 
@@ -26,9 +26,9 @@ version:          2.1.0
 excerpt_separator:  <!--more-->
 
 github:
-  repo:           https://github.com/therealchiko
+  repo:           https://github.com/ardentj
 
 social:
-  twitter:        http://twitter.com/therealchiko
+  twitter:        http://twitter.com/beatrix
 
 gems:             [jekyll-paginate]
