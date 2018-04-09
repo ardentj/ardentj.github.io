@@ -29,6 +29,6 @@ github:
   repo:           https://github.com/ardentj
 
 social:
-  twitter:        http://twitter.com/beatrix
+  twitter:        http://twitter.com/beatrix_IO
 
 gems:             [jekyll-paginate]
